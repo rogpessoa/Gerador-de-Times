@@ -1,2 +1,2 @@
 # GeradordeTimes
-Gerar times com base em jogadores cadastrados no app
+Gerar times com base em jogadores cadastrados ou que serão  cadastrados.
